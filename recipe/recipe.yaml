@@ -15,6 +15,7 @@ source:
     - 0006-Disable-system-SDK-includes-on-macOS.patch
     - 0008-Use-Python-3-C-API-names-dropped-by-SWIG-4.3.patch
     - 0009-Drop-the-Python-2-branch-of-the-x509-typemap.patch
+    - 0010-Do-not-corrupt-test-cookies-into-control-characters.patch
 
 build:
   number: 0
